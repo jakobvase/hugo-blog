@@ -7,7 +7,8 @@ and father of 3. I'm based in Denmark.
 
 To see what I'm doing now, see my [now page](/now).
 
-To read my thoughts, go [here](/thoughts).
+To read my thoughts about life and society, go [here](/thoughts). To read my
+thoughts about software development, [look over here](/software-development).
 
 [Here are some investigations](/investigations) I've done to figure out what to
 choose.
