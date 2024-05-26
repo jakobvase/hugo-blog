@@ -15,6 +15,9 @@ choose.
 
 [Things I learned](/til).
 
+The thoughts I had and the decisions I took when I
+[set up this website](/investigations/this-site).
+
 ## Things I've done
 
 - My band, [Songs for Iris](https://songsforiris.dk).
