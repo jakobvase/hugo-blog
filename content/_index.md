@@ -12,6 +12,8 @@ To read my thoughts, go [here](/thoughts).
 [Here are some investigations](/investigations) I've done to figure out what to
 choose.
 
+[Things I learned](/til).
+
 ## Things I've done
 
 - My band, [Songs for Iris](https://songsforiris.dk).
