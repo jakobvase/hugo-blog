@@ -3,8 +3,6 @@
 I'm Jakob Vase. I'm a developer, musician, board game player, thinker, husband,
 and father of 3. I'm based in Denmark.
 
-Welcome to my site, have a look around!
-
 ## Stuff to read
 
 To see what I'm doing now, see my [now page](/now).
@@ -18,4 +16,4 @@ To see what I'm doing now, see my [now page](/now).
 
 ## How to contact me
 
-Coming soon!
+Coming soon.
