@@ -9,19 +9,14 @@ To see what I'm doing now, see my [now page](/now).
 
 To read my thoughts about life and society, go [here](/thoughts). To read my
 thoughts about software development, [look over here](/software-development).
-
-[Here are some investigations](/investigations) I've done to figure out what to
-choose.
-
-[Things I learned](/til).
-
-The thoughts I had and the decisions I took when I
-[set up this website](/investigations/this-site).
+[Here are some investigations](/investigations) I've done when I had to choose
+something. Some random [things I learned](/til).
 
 ## Things I've done
 
 - My band, [Songs for Iris](https://songsforiris.dk).
-- [A score tracker for board games](https://score-tracker.vase.dev).
+- [A score tracker for board games](https://score-tracker.vase.dev), currently
+  private.
 - My wife's [website](https://majavase.dk) and her
   [app](https://chocolat.dk/app-link).
 
