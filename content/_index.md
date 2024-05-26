@@ -9,6 +9,9 @@ To see what I'm doing now, see my [now page](/now).
 
 To read my thoughts, go [here](/thoughts).
 
+[Here are some investigations](/investigations) I've done to figure out what to
+choose.
+
 ## Things I've done
 
 - My band, [Songs for Iris](https://songsforiris.dk).
