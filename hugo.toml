@@ -1,4 +1,3 @@
 baseURL = 'https://vase.dev/'
 languageCode = 'en-IN'
 title = "Jakob Vase"
-theme = 'theme'
