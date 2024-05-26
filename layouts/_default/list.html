@@ -2,7 +2,7 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    <h2><a href="{{ .RelPermalink }}">{{ .Date.Format "2006-01-02" }}  {{ .LinkTitle }}</a></h2>
     {{ .Summary }}
   {{ end }}
 {{ end }}

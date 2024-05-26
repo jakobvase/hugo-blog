@@ -7,6 +7,8 @@ and father of 3. I'm based in Denmark.
 
 To see what I'm doing now, see my [now page](/now).
 
+To read my thoughts, go [here](/thoughts).
+
 ## Things I've done
 
 - My band, [Songs for Iris](https://songsforiris.dk).
