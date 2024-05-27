@@ -1,9 +1,8 @@
 ---
 title: Fit for purpose
 date: 2023-08-08
+draft: true
 ---
-
-> This is still a work in progress.
 
 The most important rule in software development is to think. Build the thing
 that best solves the problem I have in the environment I have. I often consider

@@ -1,9 +1,8 @@
 ---
 title: Software architecture
 date: 2023-08-07
+draft: true
 ---
-
-> This is still a work in progress.
 
 I've been building software for 11 years now, counting from when I started at
 uni. I've been in lead positions for 6 of those years, because I can't keep my
