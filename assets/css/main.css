@@ -4,21 +4,29 @@
   text-decoration: none;
 }
 
+:root {
+  color-scheme: light dark;
+  --fg-color: light-dark(#555, #ccc);
+  --bg-color: light-dark(#eee, #222);
+  --border-color: light-dark(#ccc, #444);
+  --link-color: light-dark(#46a, #8ac)
+}
+
 body {
-  background-color: #000;
-  color: #ccc;
+  background-color: var(--bg-color);
+  color: var(--fg-color);
   font-family: Helvetica, Roboto, sans-serif;
   max-width: 768px;
   margin: 0 auto;
 }
 
 header {
-  border-bottom: 1px solid #222;
+  border-bottom: 1px solid var(--border-color);
   margin-bottom: 1rem;
 }
 
 footer {
-  border-top: 1px solid #222;
+  border-top: 1px solid var(--border-color);
   margin-top: 1rem;
 }
 
@@ -28,7 +36,7 @@ h1, h2, h3, h4, h5, h6, p, ul {
 }
 
 a {
-  color: #8ac;
+  color: var(--link-color);
 }
 
 a:hover {
