@@ -9,7 +9,7 @@ To see what I'm doing now, see my [now page](/now).
 
 - I take it very seriously when I need to make a decision about something, and I
   write down the investigations I've done. If you need to make a similar
-  decision, these are bound to be useful. [Link](/investigations).
+  decision, these might be useful. [Link](/investigations).
 - I'm a developer, so I write about software development.
   [Link](/software-development).
 - I've written a lot of thoughts about life and society over the years. Some of

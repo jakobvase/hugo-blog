@@ -17,6 +17,7 @@ body {
   color: var(--fg-color);
   font-family: Helvetica, Roboto, sans-serif;
   max-width: 768px;
+  padding: 0 24px;
   margin: 0 auto;
 }
 
