@@ -27,7 +27,7 @@ I could write a book. Makes more sense after I've published the blog.
 
 I could make a board game. I don't think so. Would rather make something else.
 
-Plan: Delete the fucking game. I don't need to ever complete it. Write SFI. We
-should get something off the ground again. Make some music again.
+Plan: Delete the game. I don't need to ever complete it. Write SFI. We should
+get something off the ground again. Make some music again.
 
 Done.
