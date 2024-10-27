@@ -23,7 +23,7 @@ To see what I'm doing now, see my [now page](/now).
 - [A score tracker for board games](https://score-tracker.vase.dev), currently
   private.
 - My wife's [website](https://majavase.dk) and her
-  [app](https://chocolat.dk/app-link).
+  [app](https://majavase.dk/app-link).
 
 ## How to contact me
 
