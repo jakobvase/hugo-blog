@@ -38,7 +38,8 @@ But AWS is american. I want to keep the data in the EU.
 They do both webhotels (like simply.com) and cloud. Their webhotel is only
 $14/year? If so, that's definitely the cheapest. I don't think their cloud can
 compare in cost - cloud is for quickly scalable things, this isn't supposed to
-scale. It's actually $19/year.
+scale. It's actually $19/year. Setting up email and ssl is a little annoying,
+but easier once I realized that I needed to add the dns of my domain to it.
 
 ## Github pages
 
