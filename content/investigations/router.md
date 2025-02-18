@@ -23,6 +23,20 @@ hanging anywhere. And I want it to hang in the ceiling.
 electronic-looking, and only have a single cable running to it. So Power over
 Ethernet is important.
 
+## Reservations
+
+I have pre-fallen in love with the ubiquiti lineup. I've seen it work well at
+work. But I shouldn't let it cloud my judgment. However, the guy from wiisfi
+also mentions them as a good option. So there's three reasons why I'm thinking
+to go that way before I even start. It worked at work. Wiisfi recommends it.
+It's pretty. I think worst case is it might be overkill for my private home. But
+I'm OK with a little overkill.
+
+## Things to do before I buy
+
+Try out how the wifi works in a lot of rooms with and without other devices on
+it. I want to know that what I buy actually improves the throughput.
+
 ## Options
 
 ### Ubiquiti U7 Pro (Access Point)
