@@ -7,6 +7,11 @@ I've come across https://wiisfi.com (thanks Ulrik!) before, and it's a mouthful,
 but it's also amazing. I need better internet since I'm working more from home
 and video calls are lagging.
 
+## TL;DR
+
+My TP-Link Archer C2 AC900 from 2015 is good enough for now. I've switched to
+2.4g in my home office, which has better range, and everything is good.
+
 ## Current setup
 
 I have a single TP-Link Archer C2 AC900 router centrally placed in my 125 m2
@@ -14,7 +19,7 @@ house.
 
 I have a 1gb fiber connection.
 
-## Restrictions
+## Things I need/would like
 
 The router/access point needs to be pretty for my wife to accept it to be
 hanging anywhere. And I want it to hang in the ceiling.
@@ -22,6 +27,25 @@ hanging anywhere. And I want it to hang in the ceiling.
 "Pretty" is an annoying term, but it has to be white, not too
 electronic-looking, and only have a single cable running to it. So Power over
 Ethernet is important.
+
+I also prefer for the router to be EU-made, open source, modular, repairable,
+etc. All the good tech things. And not from China if I can get it. Problem is
+the access points can't be that, because modular things aren't pretty enough.
+
+So more and more I'm looking at one to two pretty access points, and a nice
+router.
+
+### I've learned
+
+I have basically two options. Buy a nice router (like the Fritzbox 5690 pro) for
+approx. €400 and keep it in the cupboard. I don't really believe that's enough.
+
+Otherwise buy two nice PoE powered access points, put one upstairs and one
+downstairs, buy a PoE switch and do it that way. UniFy 6 Pro is approx. €200
+each, a switch is about €100, cables are about €50. So €550, and I'm sure it
+works. And I can upgrade the individual parts if I need to.
+
+I'm going with option 2.
 
 ## Reservations
 
@@ -36,6 +60,9 @@ I'm OK with a little overkill.
 
 Try out how the wifi works in a lot of rooms with and without other devices on
 it. I want to know that what I buy actually improves the throughput.
+
+Current phy speed 293 Mbps. Now 433. I'm in the opposite direction from the
+kids, they're playing 2 ipads and have 2 phones connected.
 
 ## Options
 
@@ -57,6 +84,10 @@ it. I want to know that what I buy actually improves the throughput.
 - Pretty
 - Mimo 4x4
 
+### Ubiquiti Edge Router
+
+This was the one they used at work.
+
 ### Cable from router (Low tech)
 
 Requires a 20 M cable and a ethernet->usb-c converter. Is not as pretty. Doesn't
@@ -64,6 +95,20 @@ help the rest of the family.
 
 - €32 for the adapter
 - €30 for the cable
+
+### Turris Omnia or Mox
+
+Turris makes their routers and 'mox' in Czechia. It's all open source, but more
+expensive than my other options. Mox is interesting, it's a modular device for
+networking. The problem is that it's not pretty, and pretty expensive.
+
+### FRITZ!Box
+
+Dunno if they're any good or what they cost. Made in Germany apparently.
+https://en.avm.de/products/fritzbox/. Will look later.
+
+Actually seems OK. They have 4x4 MIMO which is apparently really important. I
+might just go with this one, actually? It's €383.43 on amazon.de.
 
 ## Options for switches
 

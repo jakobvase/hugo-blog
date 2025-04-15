@@ -12,6 +12,7 @@ To see what I'm doing now, see my [now page](/now).
   decision, these might be useful. [Link](/investigations).
 - I'm a developer, so I write about software development.
   [Link](/software-development).
+- I like music more than most, and sometimes I write about it. [Link](/music).
 - I've written a lot of thoughts about life and society over the years. Some of
   them I don't agree with anymore, but they might mean something to someone, so
   they are still there. [Link](/thoughts).
