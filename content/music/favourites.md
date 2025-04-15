@@ -5,7 +5,7 @@ date: 2025-04-15
 
 Some of my favourite music. Written down in one place so I don't forget. I
 haven't chosen a sorting mechanism yet so they will just be here in the order I
-thought of them. I started writing these in the Spring of 2025.
+thought of them. I started writing these in the spring of 2025.
 
 ## Florence + the Machine - How Big, How Blue, How Beautiful
 
@@ -68,3 +68,7 @@ most often go. Motherfucker.
 ## Banks - III (2019)
 
 So many good ones on this one. Will follow what she does going forward.
+
+## Vinnie Who - Midnight Special (2013)
+
+Disco and electronic and suave. It's great. 39 is my favourite.
