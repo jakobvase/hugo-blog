@@ -72,3 +72,51 @@ So many good ones on this one. Will follow what she does going forward.
 ## Vinnie Who - Midnight Special (2013)
 
 Disco and electronic and suave. It's great. 39 is my favourite.
+
+## Fleet Foxes - Helplessness Blues (2011)
+
+The sound and the lyrics are both gorgeous. The song Hopelessness Blues is
+probably my #1 song.
+
+## Agnes Obel - Citizen of Glass (2016)
+
+Experimental interesting, with the nordic minimalism touch and some amazing
+melodies.
+
+## Hymns from Nineveh - Hymns from Nineveh (2011)
+
+There's a softness to the way he tells his stories and a deep humanity. And the
+presentation is beautifully minimalist and inviting. There are both
+shouting-from-the-top-of-the-mountain moments and moments where he's just crying
+on the kitchen floor. Favourites are "So Mournful the Elegy, so Comforting the
+Hymn", "Rage. Silence. Love.", and "Sister Sorrowsong".
+
+## The 1975 - I like it when you sleep, for you are so beautiful yet so unaware of it (2016)
+
+I just fell in love with the power of "Love Me" and the crazy sounds it uses.
+
+## Radiohead - Kid A (2000)
+
+Got this from a friend of mine with the highest recommendation. I was 13 at the
+time. I had never heard anything like it. I'm still in love with "Everything in
+its right place".
+
+## Nothing but thieves - Nothing but thieves (2015)
+
+Wake up call is amazing. Just drags you along.
+
+## Muse - Absolution (2003)
+
+There are only two songs on this album that I don't absolutely love. Such a
+great listen. Muse's other albums are also amazing, I was fully on board with
+everything they did for the first 5 albums - I can't say that about any other
+band.
+
+## Kalandra - The Line (2020)
+
+Especially Borders and Brave New World. Breathy, dreamy, heavy, beautiful.
+
+## First Aid Kit - The Lion's Roar (2012)
+
+I love many of the songs on this. Emmylou, Blue, King of the world. They hit a
+beautiful country vibe.
