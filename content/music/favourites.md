@@ -120,3 +120,53 @@ Especially Borders and Brave New World. Breathy, dreamy, heavy, beautiful.
 
 I love many of the songs on this. Emmylou, Blue, King of the world. They hit a
 beautiful country vibe.
+
+## VETO - Crushing Digits
+
+I love the vibe on this album. The complex rhythms, the electronic tapestry, the
+dynamism. Really, really impressive album. The first one, There's a beat in all
+machines, is also really good, but Crushing Digits takes the price. There's also
+some Rammstein in there.
+
+## RAYE - Where is my husband!
+
+This just hit me so good. The energy is amazing, the lyrics are funny. And
+funky!
+
+## Olivia Dean - Messy
+
+Not perfect, but she really hits the emotions well. UFO is really something, and
+Dive is really good too. Her second album is also great. Soulsy RnBsy but modern
+too. It's an interesting direction that popular music is flowing in these days.
+
+## Lana Del Rey - Born to Die
+
+When this came out it was a shock that music could even sound like this and also
+be so great. Video Games, Blue Jeans, Born to Die, and many others are just
+amazing, and still sound like nothing else.
+
+## Madison Cunningham - Revealer
+
+Complex, interesting country folk with great lyrics and melodies. I love it.
+"Life according to Rachael" is chest-crushingly beautiful.
+
+## Ren - Vincent's Tale
+
+This one is pretty special. Ren is hard to listen to. There's so much pain in
+there. And he's using music and rap to deal with it. And he's also intelligent
+and more than a little crazy, which makes for some really interesting music.
+Highly recommended, but not for easy listening. Reminds me a little of Eminem's
+Stan. I hope Ren is OK.
+
+## Tame Impala - Deadbeat
+
+Tame Impala creates multi layered psyc/rock/dance things with an introvert shyly
+singing on top of it all. It's really good. For some reason I like this album
+best.
+
+## Holly Humberstone
+
+Haven't heard much yet, but "Paint my bedroom black" has really interesting
+layers of sound. And "To love somebody" has an awesome bass. I was initially put
+off by her voice, but it's just very pop, and the music underneath is so
+interesting I forgive that.

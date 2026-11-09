@@ -3,6 +3,12 @@ title: Product ideas
 date: 2025-02-18
 ---
 
+## Game where you dig up or collect the upgrades
+
+I think it would be cool to have some sort of game where the upgrades you get
+are loot from the questing. So instead of new weapons or skills, you find things
+to slot into your skill tree or skill board or something like that.
+
 ## Service where you just host a container
 
 As a developer, sometimes you just want a container running somewhere easily.

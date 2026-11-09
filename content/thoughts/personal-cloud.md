@@ -45,6 +45,11 @@ performance, will it need to know stuff like what data center the person has
 stored their data in in order to be performant? Can the services cache data so
 they can provide a better experience?
 
+Since access to your data is now spread out over many services, if one of them
+is compromised, they could potentially corrupt your data in other services. That
+sucks. Data access must be limited to exactly what that service needs and no
+more. Potentially can't even share data between applications. And that's ok.
+
 ## Notes
 
 Things I'd like to store there:
@@ -54,6 +59,7 @@ calendar, contacts, emails, passwords, playlists, likes (albums, books, artists,
 songs) your notes about them, code repositories?, settings for applications,
 certificates and ssh keys, voice memos, documents, CVs, play counts for songs,
 achievements for games?, reviews of companies, webpages I'd like to keep,
+medical data?
 
 I also want to create this (if it doesn't already exist?) open source and freely
 usable, so someone can start a company that makes money off of this, but
@@ -61,6 +67,9 @@ developers can just run their own if they want.
 
 This also maybe ties in to the "online identity" I've been thinking of. Will
 need to write about that too.
+
+Should some of the services maybe also be scientific services that request
+anonymized read-access to your data? Maybe later.
 
 ## Investigation
 
@@ -89,3 +98,69 @@ egress, which is where the other storage providers try to keep you. Backblaze
 provides unlimited egress at 15 USD/TB/month, Hetzner doesn't even provide that.
 And they're both S3 compliant. There's probably a library somewhere that wraps
 file systems in an S3 interface.
+
+## How is this actually going to work
+
+Pseudo. I need to write a test of a service that sets up everything and
+writes/reads/lists things it has access to.
+
+```
+// System requests access to user's data api
+token = oauth { systemCertificate, more? }
+
+// System uses the token to perform an action
+storeImage { id, title, time, more, token }
+getImage { id, token }
+```
+
+Is it more complex than that? I should probably start by just writing a system
+that uses this, before I even start to create the authn/z server and the
+storage. So I can determine what's required from the systems the users will use.
+I should investigate what oauth/oidc requires, and how I can make everything
+very simple for the ordinary user.
+
+Arbitrary data storage first? That's what I want the most, and what is probably
+the most useful. But also doesn't have some of the problems that image storage
+has. Maybe check out the ente code base?
+
+## Challenges
+
+First roadblock. I want to use oauth 2.0 with an authorization code grant to set
+up the access to the personal data. But that requires the services that request
+the data to register with the data provider, and that makes it harder to host
+the data provider yourself. All the services now need to also register with your
+little provider. There are ways around this - if services allow users to enter
+hostname, client key, client secret to their storage, that probably solves it.
+But it's more work for every service.
+
+## Terminology
+
+- Data Authorizer - the web service I'm trying to build, that authorizes
+  requests for the user's data and somehow exposes an api to it, either directly
+  or by passing out links to the user's data setup.
+- Integrated Service - a client facing application that integrates with the data
+  authorizer to help the user achieve something with their data.
+- Storage - currently an abstract idea, but probably something like an S3
+  bucket, a relational database, a key-value store. I'm working to flesh out
+  what this is currently.
+
+## User journey
+
+- Set up an account with the data authorizer.
+- Set up storage somewhere (must be able to be done automatically by the data
+  authorizer).
+- Link the storage to the data authorizer (must be able to be done automatically
+  by the data authorizer).
+- Register with an integrated service, which uses oauth to authorize with the
+  data provider.
+
+### Self-hosting
+
+More complex but you're in control.
+
+- Run the data authorizer in docker somewhere.
+- Set up an account with the data authorizer.
+- Set up storage.
+- Link the storage to the data authorizer.
+- Register with an integrated service. Configure the integrated service to use
+  your data authorizer for you. Go through the oauth flow as normal.

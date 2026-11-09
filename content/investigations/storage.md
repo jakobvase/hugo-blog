@@ -1,12 +1,14 @@
 ---
 title: Storage
 date: 2023-03-01
+modified: 2025-12-05
 ---
 
 ## tl;dr
 
-I chose [MEGA](https://mega.io/) for my current storage needs, but I'm not
-completely happy with it. [Ente](https://ente.io/) is really strong too.
+I (still 2025) chose [MEGA](https://mega.io/) for my current storage needs, but
+I'm not completely happy with it. [Ente](https://ente.io/) is really strong too.
+Or [Immich](https://immich.app) if I'm feeling like setting up my own stuff.
 
 ## Requirements
 
@@ -97,3 +99,43 @@ company, not the kid. Not encrypted. Cheap as MEGA. I like the company, but I
 don't trust in the long-term viability. And I remember it as _really annoying_
 because it would synchronize things between people in the most annoying ways. My
 dad uses it.
+
+### Immich
+
+https://immich.app/
+
+Self-hosted solution that many of my nerdy friends use. Seems cool if you have a
+home server. I don't, and I don't really want one. Storage in the cloud is as
+expensive (or more expensive) than some of the other options I've listed here.
+
+### NextCloud
+
+Also an option. Cheaper than most other options too.
+
+### Cloud S3 storage
+
+At OVH, 1 TB of standard S3 storage costs 8.11 USD. At Mega, 3 TB costs 8.33
+EUR. But there are so many options. I could maybe set up some smart backup
+option so I send the data to glacial storage after a while. But who wants to
+deal with that complexity?
+
+Hetzner storage box has 1 TB for 3.2 EUR/m. That's enough for my needs.
+
+### "Host my harddrive"
+
+https://hdd-housing.eu/
+
+I thought this was interesting. You send them your HDDs which they then make
+available online. They charge $20/month/HDD, but if you buy gigantic HDDs it
+works out.
+
+### Host immich for me
+
+https://store.elfhosted.com/
+
+https://www.pikapods.com/
+
+These are solutions that host open source software for you and you bring the
+storage. Immich is $5.5/month on pikapods and about $12/month on elfhosted.
+
+Maybe worth a try? Or I could just host my own on a VPS I already own...
